@@ -11,9 +11,10 @@
   <img align="right" width="40%" height="40%"
     src="https://i.imgur.com/lmS5qL0.gif">
     
-This repository has been systematically organized to facilitate access to specific  
-information in order to meet my educational needs. In this sense, the content  
-is distributed as follows:
+This repository has been systematically organized to  
+facilitate access to specific information in order to meet  
+my educational needs. In this sense, the content is  
+distributed as follows:
     
 - `algorithm-and-data-structure`
 - `beecrowd`
