@@ -7,12 +7,11 @@
   <br>
 
 ## Directory Tree
-
-  <img align="right" width="40%" height="70%"
-    src="https://i.imgur.com/lmS5qL0.gif">
     
 This repository has been systematically organized to  
 facilitate access to specific information in order to meet  
+<img align="right" width="40%"
+    src="https://i.imgur.com/lmS5qL0.gif">
 my educational needs. In this sense, the content is  
 distributed as follows:
     
