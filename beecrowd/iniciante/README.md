@@ -4,7 +4,7 @@
 | [1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) | Extremamente Básico | [January 1st, 2023](https://github.com/Juunaz-for-real/Learning-Java/blob/main/beecrowd/iniciante/solutions/COD1001.java) |
 | [1002](https://www.beecrowd.com.br/judge/pt/problems/view/1002) | Área do Círculo | TBC |
 | [1003](https://www.beecrowd.com.br/judge/pt/problems/view/1003) | Soma Simples | [January 1st, 2023](https://github.com/Juunaz-for-real/Learning-Java/blob/main/beecrowd/iniciante/solutions/COD1003.java) |
-| [1004](https://www.beecrowd.com.br/judge/pt/problems/view/1004) | Produto Simples | TBC |
+| [1004](https://www.beecrowd.com.br/judge/pt/problems/view/1004) | Produto Simples | [January 1st, 2023](https://github.com/Juunaz-for-real/Learning-Java/blob/main/beecrowd/iniciante/solutions/COD1004.java) |
 | [1005](https://www.beecrowd.com.br/judge/pt/problems/view/1005) | Média 1 | TBC |
 | [1006](https://www.beecrowd.com.br/judge/pt/problems/view/1006) | Média 2 | TBC |
 | [1007](https://www.beecrowd.com.br/judge/pt/problems/view/1007) | Diferença | TBC |
