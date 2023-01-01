@@ -7,7 +7,7 @@
 
 public class COD1004 {
     /* the purpose of this algorithm is to print the multiplication product of the
-     * varibles */
+     * variables */
     public static void main(String[] args) throws Exception {
         int A = MyIO.readInt(), B = MyIO.readInt();
         int PROD = A * B;
