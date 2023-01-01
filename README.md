@@ -8,7 +8,7 @@
 
 ## Directory Tree
 
-  <img align="right" width="40%" height="40%"
+  <img align="right" width="40%" height="70%"
     src="https://i.imgur.com/lmS5qL0.gif">
     
 This repository has been systematically organized to  
