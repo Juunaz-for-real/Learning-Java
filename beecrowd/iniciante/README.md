@@ -7,7 +7,7 @@
 | [1004](https://www.beecrowd.com.br/judge/pt/problems/view/1004) | Produto Simples | [January 1st, 2023](https://github.com/Juunaz-for-real/Learning-Java/blob/main/beecrowd/iniciante/solutions/COD1004.java) |
 | [1005](https://www.beecrowd.com.br/judge/pt/problems/view/1005) | Média 1 | TBC |
 | [1006](https://www.beecrowd.com.br/judge/pt/problems/view/1006) | Média 2 | TBC |
-| [1007](https://www.beecrowd.com.br/judge/pt/problems/view/1007) | Diferença | TBC |
+| [1007](https://www.beecrowd.com.br/judge/pt/problems/view/1007) | Diferença | [January 1st, 2023](https://github.com/Juunaz-for-real/Learning-Java/blob/main/beecrowd/iniciante/solutions/COD1007.java) |
 | [1008](https://www.beecrowd.com.br/judge/pt/problems/view/1008) | Salário | TBC |
 | [1009](https://www.beecrowd.com.br/judge/pt/problems/view/1009) | Salário com Bônus | TBC |
 | [1010](https://www.beecrowd.com.br/judge/pt/problems/view/1010) | Cálculo Simples | TBC |
