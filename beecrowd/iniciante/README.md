@@ -22,6 +22,6 @@
 | [1019](https://www.beecrowd.com.br/judge/pt/problems/view/1019) | Conversão de Tempo | TBC |
 | [1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) | Idade em Dias | TBC |
 | [1021](https://www.beecrowd.com.br/judge/pt/problems/view/1021) | Notas e Moedas | TBC |
-| [1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) | Teste de Seleção 1 | TBC |
+| [1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) | Teste de Seleção 1 | [January 2nd, 2023](https://github.com/Juunaz-for-real/Learning-Java/blob/main/beecrowd/iniciante/solutions/COD1035.java) |
 | [1036](https://www.beecrowd.com.br/judge/pt/problems/view/1036) | Fórmula de Bhaskara | TBC |
 | [1037](https://www.beecrowd.com.br/judge/pt/problems/view/1037) | Intervalo | TBC |
