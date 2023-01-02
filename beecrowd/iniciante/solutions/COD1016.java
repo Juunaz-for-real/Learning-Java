@@ -1,5 +1,5 @@
 /* 
- * → This algorithm was created by Raick Miranda (Juunaz-for-real) on january 1st, 2023.
+ * → This algorithm was created by Raick Miranda (Juunaz-for-real) on january 2nd, 2023.
  * → Copyright (c) 2022 Raick Miranda - MIT License.
  * 
  * → Fun fact: while coding I was listening to the song "Single" by The Neighbourhood. ◠.◠
