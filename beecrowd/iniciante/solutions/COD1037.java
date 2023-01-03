@@ -6,16 +6,9 @@
  *   of the song "Mother's Daughter" by Miley Cyrus. ◠.◠
  */
 
-import java.text.DecimalFormat;
-import java.text.DecimalFormatSymbols;
-import java.util.Locale;
-
 public class COD1037 {
 
     public static void main(String[] args) throws Exception {
-        DecimalFormat deci = new DecimalFormat("0.000");
-        deci.setDecimalFormatSymbols(DecimalFormatSymbols.getInstance(Locale.ENGLISH));
-
         double input = MyIO.readDouble();
 
         if(input > 0 && input <= 25){
