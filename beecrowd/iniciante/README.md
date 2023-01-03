@@ -6,9 +6,9 @@
 | [1003](https://www.beecrowd.com.br/judge/pt/problems/view/1003) | Soma Simples | [January 1st, 2023](https://github.com/Juunaz-for-real/Learning-Java/blob/main/beecrowd/iniciante/solutions/COD1003.java) |
 | [1004](https://www.beecrowd.com.br/judge/pt/problems/view/1004) | Produto Simples | [January 1st, 2023](https://github.com/Juunaz-for-real/Learning-Java/blob/main/beecrowd/iniciante/solutions/COD1004.java) |
 | [1005](https://www.beecrowd.com.br/judge/pt/problems/view/1005) | Média 1 | TBC |
-| [1006](https://www.beecrowd.com.br/judge/pt/problems/view/1006) | Média 2 | TBC |
+| [1006](https://www.beecrowd.com.br/judge/pt/problems/view/1006) | Média 2 | [January 3rd, 2023](https://github.com/Juunaz-for-real/Learning-Java/blob/main/beecrowd/iniciante/solutions/COD1006.java) |
 | [1007](https://www.beecrowd.com.br/judge/pt/problems/view/1007) | Diferença | [January 1st, 2023](https://github.com/Juunaz-for-real/Learning-Java/blob/main/beecrowd/iniciante/solutions/COD1007.java) |
-| [1008](https://www.beecrowd.com.br/judge/pt/problems/view/1008) | Salário | [January 3rd, 2023](https://github.com/Juunaz-for-real/Learning-Java/blob/main/beecrowd/iniciante/solutions/COD1008.java)|
+| [1008](https://www.beecrowd.com.br/judge/pt/problems/view/1008) | Salário | [January 3rd, 2023](https://github.com/Juunaz-for-real/Learning-Java/blob/main/beecrowd/iniciante/solutions/COD1008.java) |
 | [1009](https://www.beecrowd.com.br/judge/pt/problems/view/1009) | Salário com Bônus | [January 3rd, 2023](https://github.com/Juunaz-for-real/Learning-Java/blob/main/beecrowd/iniciante/solutions/COD1009.java)|
 | [1010](https://www.beecrowd.com.br/judge/pt/problems/view/1010) | Cálculo Simples | [January 2nd, 2023](https://github.com/Juunaz-for-real/Learning-Java/blob/main/beecrowd/iniciante/solutions/COD1010.java) |
 | [1011](https://www.beecrowd.com.br/judge/pt/problems/view/1011) | Esfera | TBC |
