@@ -14,7 +14,7 @@
 | [1011](https://www.beecrowd.com.br/judge/pt/problems/view/1011) | Esfera | TBC |
 | [1012](https://www.beecrowd.com.br/judge/pt/problems/view/1012) | Área | TBC |
 | [1013](https://www.beecrowd.com.br/judge/pt/problems/view/1013) | O Maior | TBC |
-| [1014](https://www.beecrowd.com.br/judge/pt/problems/view/1014) | Consumo | TBC |
+| [1014](https://www.beecrowd.com.br/judge/pt/problems/view/1014) | Consumo | [January 3rd, 2023](https://github.com/Juunaz-for-real/Learning-Java/blob/main/beecrowd/iniciante/solutions/COD1014.java) |
 | [1015](https://www.beecrowd.com.br/judge/pt/problems/view/1015) | Distância Entre Dois Pontos | TBC |
 | [1016](https://www.beecrowd.com.br/judge/pt/problems/view/1016) | Distância | [January 2nd, 2023](https://github.com/Juunaz-for-real/Learning-Java/blob/main/beecrowd/iniciante/solutions/COD1016.java) |
 | [1017](https://www.beecrowd.com.br/judge/pt/problems/view/1017) | Gasto de Combustível | TBC |
