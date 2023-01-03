@@ -10,7 +10,7 @@
 | [1007](https://www.beecrowd.com.br/judge/pt/problems/view/1007) | Diferença | [January 1st, 2023](https://github.com/Juunaz-for-real/Learning-Java/blob/main/beecrowd/iniciante/solutions/COD1007.java) |
 | [1008](https://www.beecrowd.com.br/judge/pt/problems/view/1008) | Salário | TBC |
 | [1009](https://www.beecrowd.com.br/judge/pt/problems/view/1009) | Salário com Bônus | TBC |
-| [1010](https://www.beecrowd.com.br/judge/pt/problems/view/1010) | Cálculo Simples | TBC |
+| [1010](https://www.beecrowd.com.br/judge/pt/problems/view/1010) | Cálculo Simples | [January 2nd, 2023](https://github.com/Juunaz-for-real/Learning-Java/blob/main/beecrowd/iniciante/solutions/COD1010.java) |
 | [1011](https://www.beecrowd.com.br/judge/pt/problems/view/1011) | Esfera | TBC |
 | [1012](https://www.beecrowd.com.br/judge/pt/problems/view/1012) | Área | TBC |
 | [1013](https://www.beecrowd.com.br/judge/pt/problems/view/1013) | O Maior | TBC |
