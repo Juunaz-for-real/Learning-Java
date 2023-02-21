@@ -9,7 +9,7 @@
 public class TP01Q06 {
 
     // The main part of the algorithm
-    public static void is(String[] args) {
+    public static void main(String[] args) {
         String[] input = new String[1000];
         int inCounter = 0;
 
