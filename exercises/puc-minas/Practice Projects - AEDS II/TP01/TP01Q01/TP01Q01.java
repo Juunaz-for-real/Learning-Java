@@ -29,7 +29,7 @@ public class TP01Q01 {
     private static boolean isPalindrome(String in) {
         boolean answer = false;
 
-        // compares the first characther with the last until the counter reaches the
+        // compares the first character with the last until the counter reaches the
         // midpoint
         for (int i = 0, j = in.length() - 1; i < in.length() / 2; i++, j--) {
             if (in.charAt(i) == in.charAt(j))
