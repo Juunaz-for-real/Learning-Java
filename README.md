@@ -28,7 +28,7 @@ This directory stores content focused on the complex study of Algorithms and Dat
 
 ## Beecrowd
 
-This repository stores my authored solutions to the learning exercises available on the beecrowd site. 
+This repository stores my authored solutions to the learning exercises available on the Beecrowd site. 
 > Usually, the exercises found in this repository aim to test logic and reasoning, so it will be in a separate directory from the common exercises
 
 ## Exercises
