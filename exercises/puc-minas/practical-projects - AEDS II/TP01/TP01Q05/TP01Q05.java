@@ -225,9 +225,8 @@ public class TP01Q05 {
         return answer;
     }
 
-    // If the input reads the word 'FIM', stop reading and skip the algorithm to the
-    // next part
-    static boolean isEnd(String in) {
+    // If the input reads '0, stop reading and skip the algorithm to the next part
+    private static boolean isEnd(String in) {
         return (in.length() >= 1 && in.charAt(0) == '0');
     }
 
