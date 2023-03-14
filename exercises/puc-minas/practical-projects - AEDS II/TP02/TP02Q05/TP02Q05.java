@@ -1,6 +1,6 @@
 /**
  * @author Raick Miranda Rodrigues Santos
- * @file TP02Q01.java
+ * @file TP02Q05.java
  * @date 2023-03-13
  * @objective TP02Q05
  * 
